@@ -17,3 +17,5 @@ source ~/.dotfiles/machines/$(hostname)/custom.sh
 #######################################################
 
 alias code="Code.exe"
+alias chrome="chrome.exe"
+alias chrome-dev="chrome.exe --disable-web-security --user-data-dir"
